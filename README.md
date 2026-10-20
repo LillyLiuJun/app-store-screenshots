@@ -39,7 +39,7 @@ The skill starts by asking three things: what the product is and the value it gi
 
 ## Showcase: Poplex
 
-[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 screenshots, made by Claude driving Figma through the Figma MCP.
+[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 screenshots, made by **Claude driving Figma through the Figma MCP**.
 
 <table>
   <tr>

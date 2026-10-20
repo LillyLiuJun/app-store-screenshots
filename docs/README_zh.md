@@ -39,7 +39,7 @@ Skill 会先问三件事：产品是什么、给用户什么价值，品牌的�
 
 ## 案例：Poplex
 
-[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 版本的商店图，由 Claude 通过 Figma MCP 操控 Figma 完成。
+[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 版本的商店图，由 **Claude 通过 Figma MCP 操控 Figma** 完成。
 
 <table>
   <tr>
