@@ -16,20 +16,6 @@
 
 规则尽量少：每一层只给出它要回答的问题、一小张带推荐的方案表，以及最后一份简短的自查清单。
 
-## 案例：Poplex
-
-[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 版本的商店图，由 Claude 通过 Figma MCP 操控 Figma 完成。
-
-<table>
-  <tr>
-    <td><img src="../assets/poplex/01_cover.jpg" width="180" alt="Poplex 商店图 1：品牌封面"></td>
-    <td><img src="../assets/poplex/02_ask.jpg" width="180" alt="Poplex 商店图 2：Ask what you're curious about"></td>
-    <td><img src="../assets/poplex/03_snap.jpg" width="180" alt="Poplex 商店图 3：Snap it. Type it. Say it."></td>
-    <td><img src="../assets/poplex/04_words.jpg" width="180" alt="Poplex 商店图 4：Your words, sorted for you"></td>
-    <td><img src="../assets/poplex/05_scenes.jpg" width="180" alt="Poplex 商店图 5：Your life, sorted into scenes"></td>
-  </tr>
-</table>
-
 ## 安装
 
 把下面这段话发给你的 AI agent：
@@ -50,6 +36,20 @@
 - "这是我喜欢的一张参考图，帮我做成我们自己的。"
 
 Skill 会先问三件事：产品是什么、给用户什么价值，品牌的气质，以及你手上已有的素材。连接 Figma 会更方便，因为方案是在 Figma 里并排做出来的，但不是必需的。
+
+## 案例：Poplex
+
+[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 版本的商店图，由 Claude 通过 Figma MCP 操控 Figma 完成。
+
+<table>
+  <tr>
+    <td><img src="../assets/poplex/01_cover.jpg" width="180" alt="Poplex 商店图 1：品牌封面"></td>
+    <td><img src="../assets/poplex/02_ask.jpg" width="180" alt="Poplex 商店图 2：Ask what you're curious about"></td>
+    <td><img src="../assets/poplex/03_snap.jpg" width="180" alt="Poplex 商店图 3：Snap it. Type it. Say it."></td>
+    <td><img src="../assets/poplex/04_words.jpg" width="180" alt="Poplex 商店图 4：Your words, sorted for you"></td>
+    <td><img src="../assets/poplex/05_scenes.jpg" width="180" alt="Poplex 商店图 5：Your life, sorted into scenes"></td>
+  </tr>
+</table>
 
 ## 许可
 

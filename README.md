@@ -16,20 +16,6 @@ The skill works through five layers: **copy, focus, device, light and shadow, ba
 
 It is deliberately light on rules. For each layer you get the question it answers, a small menu of options with a recommendation, and a short self-check at the end.
 
-## Showcase: Poplex
-
-[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 screenshots, made by Claude driving Figma through the Figma MCP.
-
-<table>
-  <tr>
-    <td><img src="assets/poplex/01_cover.jpg" width="180" alt="Poplex screenshot 1: brand cover"></td>
-    <td><img src="assets/poplex/02_ask.jpg" width="180" alt="Poplex screenshot 2: ask what you're curious about"></td>
-    <td><img src="assets/poplex/03_snap.jpg" width="180" alt="Poplex screenshot 3: snap it, type it, say it"></td>
-    <td><img src="assets/poplex/04_words.jpg" width="180" alt="Poplex screenshot 4: your words, sorted for you"></td>
-    <td><img src="assets/poplex/05_scenes.jpg" width="180" alt="Poplex screenshot 5: your life, sorted into scenes"></td>
-  </tr>
-</table>
-
 ## Install
 
 Paste this to your AI agent:
@@ -50,6 +36,20 @@ Ask in plain language. For example:
 - "Here is a reference screenshot I like. Make it ours."
 
 The skill starts by asking three things: what the product is and the value it gives, what the brand feels like, and what material you already have. A Figma connection is useful, because options are built side by side there, but it is not required.
+
+## Showcase: Poplex
+
+[Poplex](https://github.com/LillyLiuJun/Poplex) 1.0 screenshots, made by Claude driving Figma through the Figma MCP.
+
+<table>
+  <tr>
+    <td><img src="assets/poplex/01_cover.jpg" width="180" alt="Poplex screenshot 1: brand cover"></td>
+    <td><img src="assets/poplex/02_ask.jpg" width="180" alt="Poplex screenshot 2: ask what you're curious about"></td>
+    <td><img src="assets/poplex/03_snap.jpg" width="180" alt="Poplex screenshot 3: snap it, type it, say it"></td>
+    <td><img src="assets/poplex/04_words.jpg" width="180" alt="Poplex screenshot 4: your words, sorted for you"></td>
+    <td><img src="assets/poplex/05_scenes.jpg" width="180" alt="Poplex screenshot 5: your life, sorted into scenes"></td>
+  </tr>
+</table>
 
 ## License
 
